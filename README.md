@@ -1,5 +1,5 @@
 # 🚀 End-to-End Machine Learning Web Application
-### (ML_project2)
+### (Score_Prediction)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-Flask-green)
