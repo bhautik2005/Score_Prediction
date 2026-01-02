@@ -28,7 +28,7 @@ The goal is to simulate a professional environment by moving beyond simple Jupyt
 ## 🏗️ Project Architecture
 
 ```
-ML_project2/
+Score_Prediction/
 │
 ├── artifacts/             # Stores generated files (CSV data, .pkl models)
 ├── catboost_info/         # CatBoost training logs and metadata
