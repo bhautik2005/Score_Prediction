@@ -115,7 +115,7 @@ Follow these steps to set up the project locally:
 1. Clone the Repository
 Bash
 
-git clone [https://github.com/bhautik2005/ML_project2.git](https://github.com/bhautik2005/ML_project2.git)
+git clone [https://github.com/bhautik2005/ML_project2.git](https://github.com/bhautik2005/Score_Prediction.git)
 cd ML_project2
 2. Create a Virtual Environment
 It is recommended to use a virtual environment to avoid dependency conflicts.
