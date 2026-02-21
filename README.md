@@ -1,6 +1,7 @@
 # 🚀 End-to-End Machine Learning Web Application
 ### (Score_Prediction)
 
+<<<<<<< HEAD
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-Flask-green)
 ![ML](https://img.shields.io/badge/Library-Scikit--Learn-orange)
@@ -150,3 +151,9 @@ Email: gondaliyabhautik419@gmail.com
 
 📝 License
 This project is licensed under the MIT License.
+=======
+#run the requment.txt file 
+.\venv\Scripts\python.exe -m pip install -r requirement.txt
+
+app runing command -- & venv\Scripts\Activate.ps1; python aplication.py
+>>>>>>> a450365 (add guicrn)
