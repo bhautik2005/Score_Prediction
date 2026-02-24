@@ -10,8 +10,8 @@
 > **A complete Data Science lifecycle project: From Data Ingestion to Deployment.**
 
 ## 🔍 Project Overview   
-### [Live Project ](Score-prediction-app-env.eba-ssqywhgg.ap-south-1.elasticbeanstalk.com )
-[Live App: Score Prediction](http://Score-prediction-app-env.eba-ssqywhgg.ap-south-1.elasticbeanstalk.com)
+### ↗↗ [Live App: Score Prediction](http://Score-prediction-app-env.eba-ssqywhgg.ap-south-1.elasticbeanstalk.com)
+
 This project demonstrates a **real-world industry-level Machine Learning workflow**. It is a modular, scalable, and deployable web application that takes user input via a web interface and predicts **[Insert Prediction Target, e.g., Student Test Scores / House Prices]**.
 
 The goal is to simulate a professional environment by moving beyond simple Jupyter notebooks and building a production-ready pipeline including data transformation, model training, logging, exception handling, and a Flask web interface.
